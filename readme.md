@@ -1,12 +1,6 @@
 # MNIST Handwritten Digit Detection API
 
-The MNIST dataset is a widely used benchmark dataset in the field of machine learning and computer vision. It consists of a large collection of handwritten digits from 0 to 9, each represented as a 28x28 pixel image. The goal is to develop a model that can accurately classify these digits.
-
-Deep learning, a subfield of machine learning, has shown remarkable success in solving complex tasks like image recognition. In this project, we will leverage deep learning techniques to build an API for handwritten digit detection using the MNIST dataset.
-
-## API Overview
-
-The MNIST Handwritten Digit Detection API provides a simple and convenient way to submit an image of a handwritten digit and receive the predicted digit as the output. The API takes advantage of a trained deep learning model that has been trained on the MNIST dataset.
+The MNIST dataset consists of handwritten digits from 0 to 9. We will use deep learning to build an API for handwritten digit detection.
 
 ## How it Works
 
